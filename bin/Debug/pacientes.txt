@@ -1,0 +1,1 @@
+CPF;Nome;Data Nasc.;Telefone;Email;CEP;Endereco;Numero;Bairro;Cidade;Estado;Data Diagnost.;Diabetes;Obesidade;Hipertencao;Tuberculose;Outros

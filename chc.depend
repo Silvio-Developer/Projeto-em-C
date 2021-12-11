@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638149985 source:c:\projeto faculdade\chc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+
